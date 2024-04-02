@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.container{
+    background-color: white;
+    width: 70%;
+
+}
+
+.texto{
+    text-align: left !important;
+}
+
+.div-header{
+    display: flex;
+    padding: 1em;
+    justify-content: space-between ;
+    
+
+}
+
+.div-body img{
+    width: 100%;
+}
+
+.div-footer{
+    padding: 1em;
+}
+
+.all-icons{
+    display:flex;
+    justify-content: space-between;
+}
+
+.icon{
+    font-size: 30px;
+    
+}
+
+span {
+    font-size: 10px;    
+}
