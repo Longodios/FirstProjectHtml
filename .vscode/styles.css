@@ -10,12 +10,14 @@ body{
 
 .container{
     background-color: white;
-    width: 70%;
+    width: 380px;
+    height: 500px;
+   
 
 }
 
 .texto{
-    font-size: 11px;
+    font-size: 13px;
     margin: 1px;
     float: right;
     margin-left: 4px;
